@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    display: flex;
+}
+
+.skip {
+    color: yellow;
+}
+
+.item-1 {
+    margin-left: 50px;
+    width: 50%;
+}
+
+.text {
+    font-size: 80px;
+}
+
+.women-1 img {
+    width: 90%;
+}
+
+.para-1 {
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.order-link {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(#FF1E1E, #FBA24F);
+    border-radius: 20px;
+    color: #fff;
+    position: relative;
+    top: 20px;
+}
+
+.women-2 img {
+    width: 40%;
+    margin-left: 100px;
+}
+
+.description {
+    width: 80%;
+}
+
+.background {
+    background-image: url(./7.png);
+    background-repeat: no-repeat;
+    margin: 50px;
+}
+
+.Recipies {
+    text-align: center;
+}
+
+.picture {
+    width: 100%;
+    height: 70%;
+}
+
+.recipe-item {
+    box-shadow: 20px 20px 50px grey;
+    padding: 0px;
+    margin: 25px;
+    border-radius: 35px;
+}
+
+.title {
+    text-align: center;
+}
+
+.lorem {
+    padding: 0px 20px;
+}
+
+.follower {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 20px 20px;
+    box-shadow: 10px 18px 25px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.false {
+    padding: 0px 25px;
+}
+
+footer {
+    background-color: black;
+    padding: 5%;
+    margin: 25px;
+}
+
+.footer-area {
+    color: #fff;
+    text-align: center;
+}
+
+.footer-area h1 {
+    font-weight: 100;
+}
+
+.food {
+    color: #b9440ac5;
+}
+
+.footer-area p {
+    font-weight: 100;
+    font-size: 15px;
+}
+
+.back-1 {
+    background-color: aqua;
+}
